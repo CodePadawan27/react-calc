@@ -10,5 +10,3 @@ const app = () => (
   </div>
 );
 export default app;
-
-//https://blog.usejournal.com/everything-react-first-app-188b33a880ca
